@@ -1,4 +1,6 @@
-# Ignission
+<img src="https://ignission.io/ignission-logo.png" alt="Ignission logo" width="100"/>
+
+# Ignission MCP
 
 Tools for content creators and businesses on TikTok
 
